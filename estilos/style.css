@@ -1,0 +1,16 @@
+h1{
+    color: rgb(0, 191, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:right;
+}
+h2{
+    color: chocolate;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+h5{
+    color: coral;
+    font-size: 25px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
