@@ -14,3 +14,15 @@ h5{
     text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
 }
+p{
+    background-color: yellow;
+}
+.parrafo01{
+    color: deeppink;background-color: aquamarine;
+}
+.parrafo02{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: blue;
+}
